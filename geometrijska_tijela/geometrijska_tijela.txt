@@ -1,0 +1,46 @@
+Geometrijska Tijela
+
+- Geometrijska tijela dijelimo na:
+	* Ugla (Poliedri)
+	* Obla
+
+--------------------------------------------------------------------------------
+Poliedri (Uglata Geometrijska Tijela)
+Poledar je geometrijsko tijelo omeđeno mnogokutima (najmanje 4). Te mnogokute nazivamo stranicama poliedra, stranice mnogokuta nazivamo bridovima poliedra, a vrhove vrhovima poliedra. Prostorna dijagonala poliedra je svaka duzina koja spaja ona dva vrha poliedra koji ne leže na istim stranama. Konveksni poliedri su oni kojima sve dijagonale leže unutar njih. 
+
+Platonova Tijela
+Pravilni poliedri su oni kojima su sve strane sukladni pravilni mnogokuti, a svi kutovi izmedju tih strana su jednaki. Takvih postoji samo 5 i nazivaju se platonova tijela. To su: tetraedar, hexaedar, oktaedar, dodekaedar, kosaedar.
+
+Prizme
+Prizma je poliedar cije su dvije strane dva sukladna mnogokuta koje imaju odogovarajuce strane i leze u paralelnim ravnima.
+
+Te mnogokute nazivamo osnovkama ili bazama prizme, ostale strane prizme cini: paralelogrami koji spajaju odgovarajuce stranice baza. Te paralelograme nazivamo pobočkama prizme, a duzine koje spajaju odgovarajuce vrhove baza nazivamo pobacnim bridovima prizme.  A skup svih pobacki nazivamo pobocijem prizme. Visina prizme jednaka udaljenosti njezinih baza. Prizme kojima su pomocni bridovi okomiti na ravnine baze nazivamo uspravnim prizmama,a  ostalim kosim prizmama. Bridovi uspravne prizme jednaki su njenjoh visini a pomobicke uspravne prizme su pravokutnici. Uspravnu prizmu koje su baze pravilni poligoni nazivamo pravilnom prizomom, njezine su pobocke medjusobno sukladni pravokutnici. 
+
+Piramide
+Neka su u prostoru dati jedan konveksni mnogokut (Beta) i tačka (v) koja ne lezi u ravni tog mnogokuta. Poliedar kojeg omedjuju mnogokut (b), te trokuti (vBiBj) (dje su: veliko B i, veliko Bj dva susjedna mnogokuta - B) nazivamo piramidom.
+
+Osnovka (Baza - Mnogokut B)
+Tačka v - njezin vrh. 
+Pobočka - trokuti VBiBj
+Pobočni pridovi - dužine VB
+Pobočje piramide - skup svih pobočki VBiBj
+Visina piramide jednaka je udaljenosti vrha V od ravnine osnovke.
+
+Za piramidu kazemo da je uspravna ako se noziste okomice iz vrha V na ravninu njezine baze podudara sa sredistem te baze. Sve pobocke takve piramide su jednakokracni trokut. 
+Ostale piramide nazivamo kosim piramidama ako je osnovka uspravne piramide pravilan mnogokut, kazemo da je to pravilna piramida. Pobočke pravilne piramide su sukladni jednakokracni trokuti.
+
+--------------------------------------------------------------------------------
+Obla tijela
+Obla tijela su tijela ona koja na svojoj granici osim ravnih dijelova imaju i dio koji pripada barem jednoj zakrivljenoj plohi. 
+Valjci
+Ovdje cemo pod pojmom valjka podrazumjevati iskljucivo kruzne valjke. Tako je tijelo omedjeno sa dva sukladna kruga. K1 (S1,r) i K2 (s2,r) zgranici s kruznicama K1 i K2 koji leze u paralelnim ravninama i nazivamo ih osnovkama valjka, k zakrivljeno plohom koje cine sve duzine t1 t2, gdje je t1,t2 II s1, s2, t1 E k1, t2 E k2. To zakrivljenu plohu nazivamo plastom valjka, a spojnice t1 t2 izvodnicama valjka. Sve izvodnice valjka su sukladne. 
+Spojnica s1 s2 je os valjka, ako je os valjka okomita na ravnine njegovnih osnovki, valjak je uspravan, a svaki takav kruzni valjak je ujedno i rotacijski tj. Njegov plašt nastaje rotacijom duzine t1 t2 oko ose s1 s2. Duljina izvodnice takvog valjka jednaka je njegovoj visini. Ostali valjci su kosi.
+Ravninu koja sadrzi os valjka, nazivamo ravninu osmog presjeka valjka. Svaka takva ravnina sjece rotacijski valjak po pravokutniku. Ako je osni presjek valjka kvadrat, tj. ako je duljina izvodnice valjka jednaka dvostrukom radijusu njegove osnovice, kazemo da je valjak jednakostranican.
+
+Stošci (Kruzni Stozac)
+Ako je k neki krug, malo k njegova rubna kruznica, a v bilo koja tačka koja ne lezi u ravnini kruga K, onda tijelo omedjeno krugom K i zakrivljenom plohom što ju čine sve dužine vt, gdje je TEk, nazivamo stoscem.
+
+Krug K nazivamo osnovkom ili bazom stosca, zakrivljenu plohu njegovim plastom, a spojnice vt izvodnicama stosca. Spojnicu VS, gdje je S srediste baze stosca, nazivamo os stosca. Ako je os stosca okomita na ravninu njegove baze, stozac je uspravan, a u ostalim slucajevima je kosi. Uspravni kruzni stosci su ujedno i rotacijiski, a njihov plašt nastaje rotacijom izvodnice vt oko osi vs. Svaku ravninu koja sadrzi os stosca, nazivamo ravninom osnog presjeka stosca. Svaki osni presjek rotacijskog stosca je jednakokracan trokut. Ako je taj trokut istostranican, tj. ako je duljina izvodnice jednaka dvostrukom radijusu baze, kazemo da je stosac jednakostranican. 
+
+Kugla
+Kugla je skup tacaka prostora cija je udaljenost od jedne cvrste takcke s manja ili jednaka nekoj pozitivnoj konstanti r. Tačku s nazivamo sredistem kugle a broj r njenim polumjerom ili radijusom. Kugla je primjer tijela koje je omedjeno samo jednom plohom. Kugla je omedjena sferom, tj. skupom tacaka koje su od s udaljene za r. Sve ravninske krivulje na sferi su kruznice. Kruznice na sferi koje imaju isto srediste kao sfera imaju i isti polumjer kao ona, a nazivamo ih glavnim kruznicama sfere. Presjecene kruznice sfere i sistema paralelnih horizontalnih ravnina nazivamo paralelama, a najduzu paralelu ekvatorom. Glavne kruznice sfere koje prolaze krajnim tackama vertikalnog dijametra sfere (polovima) nazivamo merdijanima. 
